@@ -1,0 +1,6 @@
+Things make sense to improve next:
+----------------------------------
+
+- Check on launch if database file exists, and if not, create an empty one (currently you need to make sure that the .txt exists)
+- Create multiple language support
+- Create full documentation of features and mechanics
